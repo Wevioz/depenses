@@ -1,0 +1,14 @@
+{
+  "depenses": [
+    {
+      "id": 1,
+      "name": "Salaire",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "ps5",
+      "price": -500
+    }
+  ]
+}
